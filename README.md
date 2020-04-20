@@ -2,4 +2,4 @@ Framed Site
 
 Link: https://schoolhouseworld.github.io/Students-LBUSD/
 
-<iframe allow="fullscreen" class="frame" src="http://coda.io/@schoolhouse/students-lbusd" style="margin-top:-90px;"></iframe>
+<iframe src="https://coda.io/embed/wi7Lv_VqGD/_sufUC?viewMode=embedplay" width=900 height=500 style="max-width: 100%;" allow="fullscreen"></iframe>
